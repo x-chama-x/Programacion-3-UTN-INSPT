@@ -62,3 +62,6 @@ const songs = [
   for (let i = 0; i < songs.length; i++) {
     console.log(songs[i].title); // Imprime el título de cada canción en la consola
   }
+
+  // exportar el array songs para que pueda ser usado en otros archivos
+  module.exports = { songs };
