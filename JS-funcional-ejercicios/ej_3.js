@@ -1,4 +1,6 @@
-/* 1. Escribir una función impura applyViralBoost(songs, multiplier) que recorra el array
+/* 3. Puras vs. impuras
+
+1. Escribir una función impura applyViralBoost(songs, multiplier) que recorra el array
 con un for y multiplique directamente el plays de cada canción (mutando la playlist
 original). */
 
