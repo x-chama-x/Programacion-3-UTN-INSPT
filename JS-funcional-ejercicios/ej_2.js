@@ -78,5 +78,10 @@ songs.forEach(song => {
 });
 
 
+// para el ejercicio 5
+
+module.exports = { formatDuration, describe, formatters }; 
+// exportar ambas funciones en un solo objeto
+
 
 
